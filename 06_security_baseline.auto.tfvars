@@ -223,7 +223,7 @@ access_transparency = {
 
 security_contacts = {
   "admin_at_gcp1_intentarch_app" = {
-    email = "admin@gcp1.intentarch.app"
+    email = "admin@example.com"
     notification_categories = [
       "security",
       "technical",
@@ -235,7 +235,7 @@ security_contacts = {
 # Essential contacts module configuration
 essential_contacts = [
   {
-    email                    = "admin@gcp1.intentarch.app"
+    email                    = "admin@example.com"
     notification_category_subscriptions = [
       "SECURITY",
       "TECHNICAL",

@@ -23,7 +23,7 @@ billing_account = {
 # Primary Contact Information
 # Used for critical alerts, billing notifications, and maintenance updates
 contacts = {
-  primary_email = "admin@gcp1.intentarch.app"
+  primary_email = "admin@example.com"
 }
 
 # Environment Configuration
