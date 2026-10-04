@@ -32,6 +32,13 @@
 | Architecture Score | 100 / 100 — Grade A |
 | Security Score | 91 / 100 — Grade A |
 
+## Generate your own version
+
+Everything in this repository came out of Merlin, from one set of answers. To
+get the same landing zone for your own company — your organization, regions
+and compliance — answer Merlin's questions and generate it. Merlin now also builds what runs on it: 25 workload archetypes, four of them shown end to end in [a complete example](https://github.com/Merlin-Studio/GCP-Terraform-Vertex-AI-RAG-GKE-Examples).
+Guest mode, no signup. **[Open Merlin →](https://app.merlin-studio.cloud)**
+
 ---
 
 ## What's in This Repo
